@@ -1,0 +1,47 @@
+[
+  {
+    "selected" : false,
+    "frame" : "{{0, 0}, {480, 320}}",
+    "class" : "View",
+    "nodes" : [
+      {
+        "selected" : true,
+        "frame" : "{{325, 66}, {155, 135}}",
+        "class" : "ImageView",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "frame" : "{{190, 110}, {100, 100}}",
+          "class" : "ImageView",
+          "name" : "man_imageview",
+          "uuid" : "C98E4BE7-F8C1-4499-AB9B-956CBB45DBD9"
+        }
+      },
+      {
+        "selected" : false,
+        "frame" : "{{200, 243}, {80, 32}}",
+        "class" : "Button",
+        "nodes" : [
+
+        ],
+        "attributes" : {
+          "action" : "animate_touch_up_inside",
+          "frame" : "{{200, 144}, {80, 32}}",
+          "title" : "Animate",
+          "uuid" : "6955DB0B-B411-4AFE-8011-D18101051EF6",
+          "class" : "Button",
+          "name" : "animate_button",
+          "font_size" : 15
+        }
+      }
+    ],
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    }
+  }
+]
